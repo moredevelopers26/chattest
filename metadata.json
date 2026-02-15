@@ -1,0 +1,8 @@
+{
+  "name": "chat prubas",
+  "description": "A high-performance chat application featuring real-time Firebase integration, user management, and AI-powered assistance from Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
